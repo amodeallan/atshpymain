@@ -1,5 +1,5 @@
 import os
-PROXY = "https://kEfTXaC70RVSNHYx:GhntpgQfRxgAft7H_streaming-1@geo.iproyal.com:12321"
+PROXY = "http://qjpthvmsomfj-country-NL:x9gcvk7scvy3@lite.flashproxy.io:6969"
 os.environ["HTTP_PROXY"]  = PROXY
 os.environ["HTTPS_PROXY"] = PROXY
 os.environ["ALL_PROXY"]   = PROXY
