@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-httpx
+httpx[http2]
 beautifulsoup4
 fake_useragent
 faker
